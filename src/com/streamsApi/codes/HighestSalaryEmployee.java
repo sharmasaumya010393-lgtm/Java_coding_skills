@@ -1,12 +1,12 @@
 package com.streamsApi.codes;
 
-public class HighestSalaryEmp {
+public class HighestSalaryEmployee {
 
     private int id;
     private String name;
     private double salary;
     // constructor
-    public HighestSalaryEmp(int id, String name, double salary) {
+    public HighestSalaryEmployee(int id, String name, double salary) {
         this.id = id;
         this.name = name;
         this.salary = salary;
